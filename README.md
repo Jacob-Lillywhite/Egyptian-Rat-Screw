@@ -1,1 +1,3 @@
-# Egyptian-Rat-Screw
+# EgyptianRatScrew
+
+This is a card game 
